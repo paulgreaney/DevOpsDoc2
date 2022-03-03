@@ -1,0 +1,7 @@
+DevOpsDocGHPages
+================
+
+.. toctree::
+   :maxdepth: 8
+
+   app
